@@ -1,2 +1,2 @@
 # Growth-Stock-Analysis
-Analysing the performance of Growth stocks against index funds
+Analyzing the performance of Growth stocks against index funds
